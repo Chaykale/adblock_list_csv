@@ -1267,7 +1267,6 @@ index;list;part;hour;date;datetime
 1266;/input/data/eywa/bar_logs_streaming/store/date=20220205/hour=16/part-00002-*;2;16;05.02.2022;05.02.2022 16 pt2
 1267;/input/data/eywa/bar_logs_streaming/store/date=20220205/hour=16/part-00003-*;3;16;05.02.2022;05.02.2022 16 pt3
 1268;/input/data/eywa/bar_logs_streaming/store/date=20220205/hour=16/part-00004-*;4;16;05.02.2022;05.02.2022 16 pt4
-;0;part;;0;00.01.1900  ptpart
 1269;/input/data/eywa/bar_logs_streaming/store/date=20220205/hour=16/part-00005-*;5;16;05.02.2022;05.02.2022 16 pt5
 1270;/input/data/eywa/bar_logs_streaming/store/date=20220205/hour=16/part-00006-*;6;16;05.02.2022;05.02.2022 16 pt6
 1271;/input/data/eywa/bar_logs_streaming/store/date=20220205/hour=17/part-00000-*;0;17;05.02.2022;05.02.2022 17 pt0
