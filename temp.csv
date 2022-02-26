@@ -2522,7 +2522,6 @@ index;list;part;hour;date;datetime
 2521;/input/data/eywa/bar_logs_streaming/store/date=20220126/hour=8/part-00001-*;1;8;26.01.2022;26.01.2022 8 pt1
 2522;/input/data/eywa/bar_logs_streaming/store/date=20220126/hour=8/part-00002-*;2;8;26.01.2022;26.01.2022 8 pt2
 2523;/input/data/eywa/bar_logs_streaming/store/date=20220126/hour=8/part-00003-*;3;8;26.01.2022;26.01.2022 8 pt3
-;0;part;;0;00.01.1900  ptpart
 2524;/input/data/eywa/bar_logs_streaming/store/date=20220126/hour=8/part-00004-*;4;8;26.01.2022;26.01.2022 8 pt4
 2525;/input/data/eywa/bar_logs_streaming/store/date=20220126/hour=8/part-00005-*;5;8;26.01.2022;26.01.2022 8 pt5
 2526;/input/data/eywa/bar_logs_streaming/store/date=20220126/hour=8/part-00006-*;6;8;26.01.2022;26.01.2022 8 pt6
@@ -3777,7 +3776,6 @@ index;list;part;hour;date;datetime
 3775;/input/data/eywa/bar_logs_streaming/store/date=20220117/hour=17/part-00005-*;5;17;17.01.2022;17.01.2022 17 pt5
 3776;/input/data/eywa/bar_logs_streaming/store/date=20220117/hour=17/part-00006-*;6;17;17.01.2022;17.01.2022 17 pt6
 3777;/input/data/eywa/bar_logs_streaming/store/date=20220117/hour=18/part-00000-*;0;18;17.01.2022;17.01.2022 18 pt0
-;0;part;;0;00.01.1900  ptpart
 3778;/input/data/eywa/bar_logs_streaming/store/date=20220117/hour=18/part-00001-*;1;18;17.01.2022;17.01.2022 18 pt1
 3779;/input/data/eywa/bar_logs_streaming/store/date=20220117/hour=18/part-00002-*;2;18;17.01.2022;17.01.2022 18 pt2
 3780;/input/data/eywa/bar_logs_streaming/store/date=20220117/hour=18/part-00003-*;3;18;17.01.2022;17.01.2022 18 pt3
